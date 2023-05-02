@@ -13,7 +13,8 @@ class Cover extends StatelessWidget {
       child: Padding(
         padding: const EdgeInsets.all(8.0),
         child: Text(
-          "Cao hơn cả núi, dài hơn cả sông Rộng hơn cả đất, xanh hơn cả trời Anh yêu em❤️, Anh yêu em (nhiều)^∞",
+          // "Cao hơn cả núi, dài hơn cả sông Rộng hơn cả đất, xanh hơn cả trời Anh yêu em❤️, Anh yêu em (nhiều)^∞",
+          "Game đỉnh vl =))",
           textAlign: TextAlign.center,
           style: TextStyle(
               color: Colors.white,
